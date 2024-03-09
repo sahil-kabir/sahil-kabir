@@ -3,7 +3,7 @@
 I'm interested in Analytics. 
 
 Here you'll find the code/notebooks for my projects in
- - Data Visualizations
- - Machine Learning models
- - Deep Learning (CNNs)
- - Data Engineering / Databases
+ - Data Visualizations | Matplotlib, HvPlot
+ - Machine Learning models | Scikit-learn, XGBoost
+ - Deep Learning (CNNs) | Tensorflow/Keras
+ - Data Engineering / Databases | Pandas/Numpy, PyMySql & Sql
