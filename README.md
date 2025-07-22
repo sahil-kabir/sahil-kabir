@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi, I'm Sahil 👋
 
-I'm interested in Data Science, Analytics, and Stats. \
+I'm a math/stats undergrad at the University of Waterloo. I'm passionate about data science, applied research in NLP, and building real-world ML solutions.
 
-Here you'll find the code/notebooks for some of my pet projects in
- - Machine Learning models | *Scikit-learn, XGBoost*
- - Deep Learning (CNNs) | *Tensorflow/Keras, Pytorch*
- - Data Engineering / Databases | *Pandas/Numpy, PyMySQL & SQL*
- - Data Visualizations | *Matplotlib, HvPlot*
+### 🛠️ Skills & Tools
+
+Python, Pandas/NumPy, Scikit-learn, PyTorch, HuggingFace, LangChain, LiteLLM, Matplotlib, Dash/Plotly <br>
+AWS EC2/Lambda, Azure AI Foundry, Bash/Shell/WSL, Git
+
+Also exploring: Docker, ECS/EKS, NGINX, Gunicorn, cloud deployment patterns
+
+
