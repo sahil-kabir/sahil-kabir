@@ -2,6 +2,8 @@
 
 I'm a math/stats undergrad at the University of Waterloo. I'm passionate about data science, applied research in NLP, and building real-world ML solutions.
 
+Affiliation: [ArGansLab](https://www.arganslab.com/)
+
 ### 🛠️ Skills & Tools
 
 Python, Pandas/NumPy, Scikit-learn, PyTorch, HuggingFace, LangChain, LiteLLM, Matplotlib, Dash/Plotly <br>
