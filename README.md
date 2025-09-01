@@ -9,6 +9,6 @@ Affiliation: [ArGansLab](https://www.arganslab.com/)
 Python, Pandas/NumPy, Scikit-learn, PyTorch, HuggingFace, LangChain, LiteLLM, Matplotlib, Dash/Plotly <br>
 AWS EC2/Lambda, Azure AI Foundry, Bash/Shell/WSL, Git
 
-Also exploring: Docker, ECS/EKS, NGINX, Gunicorn, cloud deployment patterns
+Also exploring: NGINX, Gunicorn, Redis, cloud deployment patterns
 
 
