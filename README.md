@@ -1,6 +1,6 @@
 ## Hi, I'm Sahil 👋
 
-I'm a math/stats undergrad at the University of Waterloo. I'm passionate about data science, applied research in NLP, and building real-world ML solutions.
+I'm a math/stats undergrad at the University of Waterloo. My interests include NLP techniques, infra, systems, and applied research.
 
 Affiliation: [ArGansLab](https://www.arganslab.com/)
 
