@@ -1,6 +1,6 @@
 ## Hi, I'm Sahil 👋
 
-I'm a math/stats undergrad at the University of Waterloo. My interests include NLP techniques, infra, systems, and applied research.
+My interests include NLP techniques, infra, systems, and applied research.
 
 ### 🛠️ Skills & Tools
 
